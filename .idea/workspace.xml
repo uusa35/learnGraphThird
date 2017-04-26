@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a76aa16-bc96-41c5-afb3-13af2a480ab1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/videos/02.mov" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/video/02.mov" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/learngraphthird.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/learngraphthird_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Contstants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/I18n/ar.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/I18n/en.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/I18n/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/auth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/queries/mutations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/queries/queries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/redux/actions/propertiesActions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/redux/reducers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/redux/reducers/propertiesReducers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/redux/store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/HomeFlatList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/HomeScreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/aboutus/Aboutus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/contactus/Contactus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/item/ItemCreate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/item/ItemShow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/login/LoginScreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/partials/Ball.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/partials/ItemListView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/user/Deck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/user/UserCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/user/UserShow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/screens/video/VideoContent.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/videos/02.mov" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learngraphthird.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +28,8 @@
       <file leaf-file-name="Deck.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/screens/user/Deck.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48230088">
-              <caret line="41" column="62" selection-start-line="41" selection-start-column="62" selection-end-line="41" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.36283186">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -281,6 +246,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learngraphthird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learngraphthird" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -962,10 +945,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21862349">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/screens/user/Deck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48230088">
-          <caret line="41" column="62" selection-start-line="41" selection-start-column="62" selection-end-line="41" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.36283186">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
