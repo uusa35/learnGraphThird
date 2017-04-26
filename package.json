@@ -1,0 +1,33 @@
+{
+  "name": "learngraphthird",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "apollo-client": "^1.0.4",
+    "axios": "^0.16.1",
+    "expo": "16.0.0",
+    "graphql-tag": "^2.0.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "native-base": "^2.1.2",
+    "react": "16.0.0-alpha.6",
+    "react-apollo": "^1.1.0",
+    "react-native": "0.43.4",
+    "react-native-elements": "^0.11.2",
+    "react-native-git-upgrade": "^0.2.7",
+    "react-native-i18n": "^1.0.0",
+    "react-native-video-controls": "^1.2.0",
+    "react-navigation": "master",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.1",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^1.9.1",
+    "react-native-dotenv": "0.0.4"
+  }
+}
